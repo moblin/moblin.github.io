@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, welcome to Tech Blog Inspire, a site dedicated to self-improvement, technology, and most of all, documenting my personal journey. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I’m currently working in the Health sector as an information technologist providing desktop and network related services. Networking is definitely my bread and butter, the thing I know most about and above all enjoy the most. Nothing excites me more than jumping right into the CLI and getting my hands dirty, learning about the network, and providing unique solutions. I enjoy working with open source technologies as well, as these can provide unique opportunities for the business, especially if funding is limited.  Under certain circumstances, it can also assist in disaster recovery scenarios.  
 
-What else do you need?
+My insatiable thirst for knowledge keeps me constantly seeking out ways to self-improve whether it be through literature, videos or trudging through the trenches of the internet. Lately I've been interested in Devops and Docker related technologies in the context of networks and network automation. 
 
-### My story
+### Tech that I’m familiar with: 
+- Cisco IOS – Routing and Switching 
+- HP Aruba – Routing and Switching 
+- OpenBSD 
+- FreeBSD 
+- Linux 
+- Basic Docker skills  - Docker-compose 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Future goals: 
+- Learn python 
+- Become fluent in Ansible (Network automation) 
+- Learn bash shell scripting 
+- Learn Powershell 
